@@ -1,0 +1,12 @@
+{
+    "translationCatalog"        : "ambience-m87-black-hole",
+    "displayName"               : "M87 black hole",
+    "version"                   : 2,
+    "wallpaper"                 : "m87-black-hole.png",
+    "highlightColor"            : "#fffe7f7f",
+    "secondaryHighlightColor"   : "#b5fe7f7f",
+    "primaryColor"              : "#ffffffff",
+    "secondaryColor"            : "#b0ffffff",
+    "ringerVolume"              : 98,
+    "favorite"			: true
+}
